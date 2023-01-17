@@ -13,19 +13,19 @@ You can apply more than one filter at a time.  For instance, if you select both 
 
 - Browsing paintings on the landing page, in this case after filtering by artist and museum:
 
-  ![Filtering Paintings on the Landing Page](https://files.catbox.moe/7h7oug.png)
+  ![Filtering Paintings on the Landing Page](images/screenshots/filteringPaintingsOnTheLandingPage.png)
   &nbsp;
 
 - After clicking on a painting from the landing page:
 
-  ![Viewing a Single Painting](https://files.catbox.moe/yu3jpt.png)
+  ![Viewing a Single Painting](images/screenshots/viewingASinglePainting.png)
   &nbsp;
 
 - Scrolling down and seeing other works related to the single painting (same artist or shape):
 
-  ![Viewing Related Works](https://files.catbox.moe/twdwxf.png)
+  ![Viewing Related Works](images/screenshots/viewingRelatedWorks.png)
   &nbsp;
 
 - Viewing favorited paintings:
 
-  ![Viewing Favorites](https://files.catbox.moe/kogeer.png)
+  ![Viewing Favorites](images/screenshots/viewingFavorites.png)
